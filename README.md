@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Hafeez
-- 👀 I’m interested in Java/JakartaEE/Spring/Spring Boot and Web technologies(Angular, React, Flutter)
+- 👀 I’m interested in Java/JakartaEE/Spring/Spring Boot and Web technologies(Javascript, Angular, React, Flutter)
 - 🌱 I’m currently learning mobile apps development
 - 💞️ I’m looking to collaborate on applications and web development
 - 📫 How to reach me hafeezrq@yahoo.com
